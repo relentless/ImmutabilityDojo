@@ -1,0 +1,12 @@
+C:\Programming\ImmutabilityDojo\ImmutaBot\bin\Debug\ImmutaBot.dll
+C:\Programming\ImmutabilityDojo\ImmutaBot\bin\Debug\ImmutaBot.pdb
+C:\Programming\ImmutabilityDojo\ImmutaBot\obj\Debug\ImmutaBots.csprojResolveAssemblyReference.cache
+C:\Programming\ImmutabilityDojo\ImmutaBot\obj\Debug\ImmutaBot.dll
+C:\Programming\ImmutabilityDojo\ImmutaBot\obj\Debug\ImmutaBot.pdb
+C:\Programming\ImmutabilityDojo\ImmutaBots\bin\Debug\ImmutaBots.dll
+C:\Programming\ImmutabilityDojo\ImmutaBots\bin\Debug\ImmutaBots.pdb
+C:\Programming\ImmutabilityDojo\ImmutaBots\obj\Debug\ImmutaBots.csprojResolveAssemblyReference.cache
+C:\Programming\ImmutabilityDojo\ImmutaBots\obj\Debug\ImmutaBots.dll
+C:\Programming\ImmutabilityDojo\ImmutaBots\obj\Debug\ImmutaBots.pdb
+C:\Programming\ImmutabilityDojo\ImmutaBots\bin\Debug\System.Collections.Immutable.dll
+C:\Programming\ImmutabilityDojo\ImmutaBots\bin\Debug\System.Collections.Immutable.xml
