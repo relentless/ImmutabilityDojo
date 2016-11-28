@@ -1,0 +1,7 @@
+C:\Programs\ImmutabilityDojo\GreetingKata\Greetings\bin\Debug\Greetings.dll
+C:\Programs\ImmutabilityDojo\GreetingKata\Greetings\bin\Debug\Greetings.pdb
+C:\Programs\ImmutabilityDojo\GreetingKata\Greetings\bin\Debug\nunit.framework.dll
+C:\Programs\ImmutabilityDojo\GreetingKata\Greetings\bin\Debug\nunit.framework.xml
+C:\Programs\ImmutabilityDojo\GreetingKata\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache
+C:\Programs\ImmutabilityDojo\GreetingKata\Greetings\obj\Debug\Greetings.dll
+C:\Programs\ImmutabilityDojo\GreetingKata\Greetings\obj\Debug\Greetings.pdb
