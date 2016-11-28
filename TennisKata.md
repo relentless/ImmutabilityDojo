@@ -7,9 +7,9 @@ Only games are scored, not sets or matches.
 #### Example
 
     var scorer = new ScoreKeeper();
-    scorer.BallWon(Player.A);
-    scorer.BallWon(Player.B);
-    scorer.BallWon(Player.A);
+    scorer.BallWonBy(Player.A);
+    scorer.BallWonBy(Player.B);
+    scorer.BallWonBy(Player.A);
     Assert.That(scorer.Score, Is.EqualTo("Thirty-Fifteen"));
     
 #### Tennis Scoring Rules
