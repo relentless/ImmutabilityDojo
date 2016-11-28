@@ -11,7 +11,7 @@ Only games are scored, not sets or matches.
 * If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is “Advantage” for the player in the lead (e.g. "Advantage Player A")
 * A game is won by the first player to have won at least four points in total and at least two points more than the opponent.
 
-#### Example of code in action
+#### Example
 
     var scorer = new ScoreKeeper();
     
@@ -44,8 +44,8 @@ Only games are scored, not sets or matches.
 * All code should be immutable.  (The example above is not.)
 * The code's API is up to you, but it must use a separate call for each ball scored.
 * Assume input will always be valid, and the program used in the correct way.  (Error checking & validation are not needed).
-* Unit tests are not required, but are highly recommended.
-* If the requirements are not clear, make a decision and continue or ask the facilitator.
-* The point of this exercise if to learn immutable code, not to finish the solution.
+* Unit tests are not required, but are recommended.
+* If the requirements are not clear, make an assumption or ask the facilitator.
+* The point of this exercise if to learn how to write immutable code.  Finishing the soluton is not important.
 
 Good luck!
