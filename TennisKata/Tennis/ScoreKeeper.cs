@@ -24,6 +24,7 @@ namespace Tennis
         public ScoreKeeper(): this(ImmutableList.Create<Player>()) {}
 
         public ScoreKeeper BallWon(Player winner) {
+            string x;
             return new ScoreKeeper(_pointsWon.Add(winner));
         }
 

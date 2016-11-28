@@ -10,3 +10,10 @@ C:\Programming\ImmutabilityDojo\ImmutaBots\obj\Debug\ImmutaBots.dll
 C:\Programming\ImmutabilityDojo\ImmutaBots\obj\Debug\ImmutaBots.pdb
 C:\Programming\ImmutabilityDojo\ImmutaBots\bin\Debug\System.Collections.Immutable.dll
 C:\Programming\ImmutabilityDojo\ImmutaBots\bin\Debug\System.Collections.Immutable.xml
+C:\Programs\ImmutabilityDojo\ImmutaBots\bin\Debug\ImmutaBots.dll
+C:\Programs\ImmutabilityDojo\ImmutaBots\bin\Debug\ImmutaBots.pdb
+C:\Programs\ImmutabilityDojo\ImmutaBots\bin\Debug\System.Collections.Immutable.dll
+C:\Programs\ImmutabilityDojo\ImmutaBots\bin\Debug\System.Collections.Immutable.xml
+C:\Programs\ImmutabilityDojo\ImmutaBots\obj\Debug\ImmutaBots.csprojResolveAssemblyReference.cache
+C:\Programs\ImmutabilityDojo\ImmutaBots\obj\Debug\ImmutaBots.dll
+C:\Programs\ImmutabilityDojo\ImmutaBots\obj\Debug\ImmutaBots.pdb
