@@ -1,0 +1,9 @@
+C:\Programs\ImmutabilityDojo\TennisKata\Tennis\bin\Debug\Tennis.dll
+C:\Programs\ImmutabilityDojo\TennisKata\Tennis\bin\Debug\Tennis.pdb
+C:\Programs\ImmutabilityDojo\TennisKata\Tennis\bin\Debug\nunit.framework.dll
+C:\Programs\ImmutabilityDojo\TennisKata\Tennis\bin\Debug\nunit.framework.xml
+C:\Programs\ImmutabilityDojo\TennisKata\Tennis\obj\Debug\Tennis.csprojResolveAssemblyReference.cache
+C:\Programs\ImmutabilityDojo\TennisKata\Tennis\obj\Debug\Tennis.dll
+C:\Programs\ImmutabilityDojo\TennisKata\Tennis\obj\Debug\Tennis.pdb
+C:\Programs\ImmutabilityDojo\TennisKata\Tennis\bin\Debug\System.Collections.Immutable.dll
+C:\Programs\ImmutabilityDojo\TennisKata\Tennis\bin\Debug\System.Collections.Immutable.xml
