@@ -4,7 +4,8 @@
 
     public class ImmutaBot {
         
-        // All members should be readonly on const
+####        // All members should be readonly on const 
+
         private const int initialEnergy = 100; // Consts are truly immutable and can never be changed
         private readonly int _energy; // Readonly variables can only be changed in the constructor
         private readonly ImmutablePoint _location; // Any reference types used must also be immutable
