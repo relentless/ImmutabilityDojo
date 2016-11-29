@@ -7,7 +7,7 @@
         // All members should be readonly or const 
         private const int initialEnergy = 100; // Consts are truly immutable and can never be changed
         private readonly int _energy; // Readonly variables can only be changed in the constructor
-        private readonly ImmutablePoint _location; // Any reference types used must also be immutable
+        private readonly ImmutablePoint _location; // Any types referenced must also be immutable
         
         // If you need a collection, try something from System.Collections.Immutable (on NuGet)
         
